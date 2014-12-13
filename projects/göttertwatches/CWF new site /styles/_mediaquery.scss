@@ -1,0 +1,52 @@
+//  this is my media query file so it all looks pretty later
+		
+
+/* Portrait tablet and small desktops */
+@media (max-width: 940px) {
+	* {
+		
+	}
+
+ .main, .dial, .watch, .service { 
+
+ 	max-width: 100%;
+ }
+ }
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) {
+}
+ 
+/* Landscape phones and down */
+@media (max-width: 480px) {
+}
+
+///* for product page
+
+
+// @media (max-width:960px) {
+// 	.gallery .galleryItem {
+// 		width: 50%;
+// 	}
+
+// 	.contact form {
+// 		width: 90%;
+// 		margin: 0 auto;
+// 	}
+
+// 	.contact form .field {
+// 		width: 100%;
+// 		margin: 15px 0;
+// 	}
+// }
+
+// @media (max-width:768px) {
+// 	.contentHalf {
+// 		width: 100%;
+// 		margin: 0;
+// 	}
+// }
+
+// @media (max-width:480px) {
+// 	.gallery .galleryItem {
+// 		width: 100%;
+// 	}
